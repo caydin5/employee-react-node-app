@@ -1,0 +1,22 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.info input {
+
+  padding-left: 10px;
+  margin: 5px;
+}
+
+button {
+  padding-left: 10px;
+  margin-top: 15px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
