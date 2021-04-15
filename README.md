@@ -21,10 +21,6 @@ This application uses [React.js](https://reactjs.org) as the front-end and [Node
 
 Please refer to package.json in the directory for the dependency list.
 
-## Known Issues
-
-* Unable to delete newly added row unless the page is refreshed. This is due to the defined id attribute in "DELETE FROM employees WHERE id =…” being seen as undefined until the page refreshes. This issue will be addressed in the upcoming version.
-
 ## Available Scripts
 
 Navigate to the scripts folder and execute the following SQL scripts:
